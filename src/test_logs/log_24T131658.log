@@ -1,0 +1,19 @@
+281  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.init()[pri:0, instance:null] -110321094
+284  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.startTest(java.lang.reflect.Method)[pri:0, instance:null] 2018032446
+284  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+287  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+288  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+288  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+290  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.tierDown()[pri:0, instance:null] -1905594674
+290  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE TestBase.stopTest(org.testng.ITestResult)[pri:0, instance:null] -1620563746
+290  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+291  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+291  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+291  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+294  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE SfFormTests.fillInQuestionnaire()[pri:0, instance:com.hackathon.tests.SfFormTests@5717c37] 297570058
+294  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+294  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+294  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+294  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2564 [Test worker] INFO  com.hackathon.TestBase - Test start fillInQuestionnaire
+17985 [Test worker] INFO  com.hackathon.TestBase - PASSED: test method fillInQuestionnaire
